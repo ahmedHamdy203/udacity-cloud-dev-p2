@@ -1,0 +1,9 @@
+## Description
+This repository contains REST api development for udacity cloud-developer ND. 
+
+## Notes
+> The project has been deployed to Elastic BeanStalk AWS service. And I have included the dashboard screenshot for that.
+> End point : http://udacity-p2-udagram-dev.us-east-1.elasticbeanstalk.com/
+> Test case: http://udacity-p2-udagram-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1588702547919-26089e690ecc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b25saW5lfGVufDB8fDB8fA%3D%3D&w=1000&q=80
+
+
